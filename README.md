@@ -18,6 +18,8 @@ export const environment = {
 };
 
 ```   
+Note: On Windows app Service Important to add web.config to root folder of your website (wwwroot) for proper handling of requests.
+
 
 ## Sample Log Analytics Queries
 Page Views:
