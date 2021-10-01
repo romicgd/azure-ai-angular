@@ -18,7 +18,8 @@ export const environment = {
 };
 
 ```   
-Note: On Windows app Service Important to add web.config to root folder of your website (wwwroot) for proper handling of requests.
+Note: On Windows app Service Important to add web.config to root folder of your website (wwwroot) for proper handling of requests. Example is included in this repository.
+https://github.com/romicgd/azure-ai-angular/blob/master/web.config
 
 
 ## Sample Log Analytics Queries
